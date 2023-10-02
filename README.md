@@ -8,14 +8,11 @@ Este proyecto tiene como objetivo reformar la biblioteca de Cuatrovientos a conv
    - Diseño y desarrollo de una página web interactiva y amigable para el usuario.
    - Creación de una base de datos para almacenar la información de los libros digitalizados.
 
-**URL a la página creada:**
-
-Puedes acceder a la página haciendo clic en el siguiente enlace [GitHub Pages](https://soyadnane.github.io/libroTech/).
 
 ## Funcionalidad de cada página
 
 1. **Inicio:**
-   - En esta página se sube todas las novedades que se vayan implementando a nuestra web. Tanto si hacemos cambios en nuestras politicas de privacidad, como si añadimos algún libro u hacemos alguna colaboración con alguna editorial. También anunciaremos algunos eventos que hagamos.
+   - En esta página se sube todas las novedades que hay 
 
 
 3. **Página Biblioteca:**
@@ -48,6 +45,22 @@ Colores en código: "d49a6d","1785e4","eeddd2".
 
 Imagen de los colores respectivamente:
 ![Fuente Titulos](./assets/img/palette.png)
+
+## Esquema de las páginas web
+- Inicio
+![](./assets/img/index.jpg)
+- Biblioteca
+![](./assets/img/biblioteca.jpg)
+- Propuestas
+![](./assets/img/propuestas.jpg)
+- Reservas
+![](./assets/img/reservas.jpg)
+- Login
+![](./assets/img/login.jpg)
+- Register 
+![](./assets/img/register.jpg)
+
+
 
 ## Tecnologías Utilizadas
 
