@@ -41,11 +41,11 @@ Hemos utilizado dos fuente. Una para los titulos y otra para el texto.
 2. **Colores:**
 Los colores juegan un papel fundamental en el diseño de una página web, ya que pueden transmitir emociones, establecer la identidad de la marca y afectar la experiencia del usuario. Aquí tienes una pequeña descripción de por qué se han elegido los colores "d49a6d," "1785e4," y "eeddd2" en su página web:
 
-"d49a6d" (Marrón claro): Este tono de marrón claro aporta una sensación de calidez y comodidad. El marrón a menudo se asocia con la tierra y la naturaleza, lo que puede evocar sensaciones de estabilidad y confianza. En el contexto de una página web, puede transmitir la idea de que su empresa es confiable y accesible, creando una sensación de cercanía con los visitantes.
+"d49a6d" (Marrón claro): Este tono de marrón claro aporta una sensación de calidez y comodidad. El marrón a menudo se asocia con la tierra y la naturaleza, lo que puede evocar sensaciones de estabilidad y confianza.
 
-"1785e4" (Azul brillante): El azul es un color que generalmente se asocia con la confianza, la seguridad y la profesionalidad. El tono brillante de azul que han elegido puede transmitir una sensación de frescura y modernidad. Además, el azul se relaciona con el cielo y el mar, lo que puede inspirar tranquilidad y confianza en los usuarios. Este color puede ser especialmente efectivo si su empresa está relacionada con la tecnología o la innovación.
+"1785e4" (Azul brillante): El azul es un color que generalmente se asocia con la confianza, la seguridad y la profesionalidad. El tono brillante de azul que han elegido puede transmitir una sensación de frescura y modernidad. Además, el azul se relaciona con el cielo y el mar, lo que puede inspirar tranquilidad y confianza en los usuarios.
 
-"eeddd2" (Beige claro): El beige claro es un color neutral y suave que crea un fondo acogedor y relajante en una página web. Este color puede sugerir simplicidad, limpieza y una sensación de calma. El uso de un tono beige claro en combinación con los otros colores puede ayudar a equilibrar la paleta de colores, haciendo que la página sea fácil de leer y navegar.
+"eeddd2" (Beige claro): El beige claro es un color neutral y suave que crea un fondo acogedor y relajante en una página web. Este color puede sugerir simplicidad, limpieza y una sensación de calma. El uso de un tono beige claro en combinación con los otros colores y ayuda a equilibrar la paleta de colores, haciendo que la página sea fácil de leer y navegar.
 
 Imagen de los colores respectivamente:
 ![Fuente Titulos](./assets/img/palette.png)
