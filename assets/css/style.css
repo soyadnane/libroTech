@@ -100,7 +100,7 @@ body {
 footer {
     background-color: #333;
     color: #fff;
-    padding: 20px 0;
+    padding: 10px 0;
     /* Ajusta el espaciado interno del footer según tus preferencias */
     width: 100%;
     clear: both;
@@ -113,7 +113,7 @@ footer {
     display: none;
     /* Oculta el botón por defecto */
     position: fixed;
-    bottom: 50px;
+    bottom: 80px;
     /* Ajusta la posición vertical del botón */
     right: 50px;
     /* Ajusta la posición horizontal del botón */
@@ -165,10 +165,9 @@ footer {
 
 h1,
 h2,
-h3,
-h4 {
+h3 {
     font-family: titulos;
-    color: #36A0FF;
+    color: #36A0FF !important;
 }
 
 p {
