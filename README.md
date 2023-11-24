@@ -1,5 +1,8 @@
 # LibroTech
 
+# Página web
+https://soyadnane.github.io/librotech/
+
 ## Descripción del Proyecto
 
 Este proyecto tiene como objetivo reformar la biblioteca de Cuatrovientos a convertirla en una biblioteca digital accesible a través de una página web. Ya que se han hecho reformas en el centro y ahora la biblioteca se ha convertido en una sala común. La idea principal es escanear todos los libros físicos existentes en la biblioteca y luego ponerlos a disposición del público en general para su alquiler gratuito. Esto permitirá que un público más amplio acceda a la colección de libros y, al mismo tiempo, conservará los libros físicos en su estado original.
